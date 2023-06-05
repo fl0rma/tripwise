@@ -5,7 +5,7 @@
 Effortless Itineraries for Unforgettable Escapes
 
 
-## Introduction to your project.
+## Introduction to the project.
 
 ## Content
 
@@ -97,7 +97,7 @@ Now the user will be able to see the 3 top flights for 3 airlines companies and 
 
 Last part, you provide the Top 10 Activities for you to do in the selected City and the best restaurants near the chosen activity. The user just need to clickon 'Ready? Click Here!"
 
-
+Check this video to see how it works https://vimeo.com/833319706?share=copy
 
 
 
